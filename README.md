@@ -5,4 +5,4 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lynchbomb&layout=compact)](https://github.com/lynchbomb/github-readme-stats)
 
-[![Marc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lynchbomb)](https://github.com/lynchbomb/github-readme-stats)
+[![Marc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lynchbomb&layout=compact&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&theme=dark&card_width=350)](https://github.com/lynchbomb/github-readme-stats)
